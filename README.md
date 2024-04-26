@@ -1,2 +1,3 @@
 # Interactive-Fiction-Engine.c.document
-Document of Interactive-Fiction-Engine.c
+
+[Server](/doc/server.md)
