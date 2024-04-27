@@ -49,3 +49,4 @@ and we highly encourage developers to send PR or issues to our repo.
 ## Documents of commands
 
 [Server/API/Admin Edit](/doc/server.md)
+[Script(Every elements)](/doc/script.md)
