@@ -29,4 +29,15 @@ Although it is hard for freshmen, we still do our best to write this wonderful f
 
 ```
 
+#### How much time did we spend on this project
+
+```
+Currently, we've spent more than 100 hours in this project since we really want to
+perform and produce a perfect demo. In our opinion, this project may be the biggest project
+we have ever written.
+
+Although we have spent a large quantity of time to write this project, bugs may still appear
+and we highly encourage developers to send PR or issues to our repo.
+```
+
 [Server/API/Admin Edit](/doc/server.md)
