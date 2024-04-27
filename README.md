@@ -48,5 +48,5 @@ and we highly encourage developers to send PR or issues to our repo.
 
 ## Documents of commands
 
-[Server/API/Admin Edit](/doc/server.md)<br>
-[Script(Every elements)](/doc/script.md)
+[Server / API / Admin Edit](/doc/server.md)<br>
+[Script ( Every elements ) ](/doc/script.md)
