@@ -40,4 +40,6 @@ Although we have spent a large quantity of time to write this project, bugs may 
 and we highly encourage developers to send PR or issues to our repo.
 ```
 
+## Documents of commands
+
 [Server/API/Admin Edit](/doc/server.md)
