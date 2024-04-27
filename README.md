@@ -2,8 +2,8 @@
 
 ### Overview
 ```
-This repo is the document of Interactive Fiction Engine, the final project of NTNU_ComputerProgrammingII.
-
+This repo is the document of Interactive Fiction Engine,
+the final project of NTNU_ComputerProgrammingII.
 To expereince the project, check out Interactive-Fiction-Engine.c repo in my GitHub.
 (The repo may be private until the demo day or deadline)
 ```
@@ -16,14 +16,20 @@ To expereince the project, check out Interactive-Fiction-Engine.c repo in my Git
 Firstly, since the course are mainly for Freshman to learn C programming,
 therefore, the core system are required to be written in C.
 
-However, we considered that SDL for project's GUI is a little bit ugly and limited for our ideas.
-After discussion with teammates, we decided to write a brand new html user interface for our engine.
+However, we considered that SDL for project's GUI is a
+little bit ugly and limited for our ideas.
+After discussion with teammates, we decided to write a brand new html
+user interface for our engine.
 
-At the start of our project, we wrote the whole logic and whole stuff in frontend and TA told us that it is formidden
-since we only use C to generate the html and js, thus, we wrote a python webserver to connect the frontend and our C system.
+At the start of our project, we wrote the whole logic and whole stuff
+in frontend and TA told us that it is formidden
+since we only use C to generate the html and js,
+thus, we wrote a python webserver to connect the frontend and our C system.
 
-According to the rule of project, we have written a complexity C system to automatically generate frontend codes, including html/js,
-by analyzing the script.yaml file. (Which means our project can automatically generate a whole website according to your script.yaml and assets)
+According to the rule of project, we have written a complexity C system to
+automatically generate frontend codes, including html/js,
+by analyzing the script.yaml file.
+(Which means our project can automatically generate a whole website according to your script.yaml and assets)
 
 Although it is hard for freshmen, we still do our best to write this wonderful final project.
 
