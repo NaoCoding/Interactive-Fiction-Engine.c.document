@@ -34,6 +34,12 @@ window.title:[string]
 // ex. window.title:Hello World
 ```
 
+#### Object
+
+* object.create:[ string ]
+* object.place:[ name ],[ string , string , string , string ]
+* object.style:[ name ],[ string ],[ string ]
+
 #### Character
 
 * character.count: [ uint ]
@@ -48,7 +54,7 @@ window.title:[string]
 * character.[ name ].control.stop
 * character.[ name ].control.movingAnimation:[uint,uint]
 * character.[ name ].control.standingAnimation:[uint,uint]
-* character.[ name ].moving_place:[string,string,string,string]
+* character.[ name ].moving_place:[ string , string , string , string ]
 * character.[ name ].moving.[uint]:[path]
 * character.[ name ].moving_src:[path]
 * character.[ name ].moveAnimation
