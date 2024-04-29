@@ -18,7 +18,7 @@ express one's idea to script.yaml
 
 #### Background
 
-* background: [ path ]
+* background : [ path ]
 ```c
 background:[path]
 // set the background image src to path
@@ -27,7 +27,7 @@ background:[path]
 
 #### Window
 
-* window.title: [ string ]
+* window.title : [ string ]
 ```c
 window.title:[string]
 // set the title of website
@@ -36,27 +36,29 @@ window.title:[string]
 
 #### Object
 
-* object.create:[ string ]
-* object.place:[ name ],[ string , string , string , string ]
-* object.style:[ name ],[ string ],[ string ]
+* object.create : [ string ]
+* object.place : [ name ] , [ string , string , string , string ]
+* object.style : [ name ] , [ string ] , [ string ]
+* object.show : [ name ]
+* object.hide : [ name ]
 
 #### Character
 
-* character.count: [ uint ]
-* character.create: [ string ]
+* character.count : [ uint ]
+* character.create : [ string ]
   
 * character.[ name ].src.[ string ]: [ path ]
 * character.[ name ].show
 * character.[ name ].hide
-* character.[ name ].place:[string,string,string,string]
+* character.[ name ].place : [ string , string , string , string ]
   
 * character.[ name ].control.start
 * character.[ name ].control.stop
-* character.[ name ].control.movingAnimation:[uint,uint]
-* character.[ name ].control.standingAnimation:[uint,uint]
-* character.[ name ].moving_place:[ string , string , string , string ]
-* character.[ name ].moving.[uint]:[path]
-* character.[ name ].moving_src:[path]
+* character.[ name ].control.movingAnimation : [ uint , uint ]
+* character.[ name ].control.standingAnimation : [ uint , uint ]
+* character.[ name ].moving_place : [ string , string , string , string ]
+* character.[ name ].moving.[ uint ] : [ path ]
+* character.[ name ].moving_src : [ path ]
 * character.[ name ].moveAnimation
 
 ```c
