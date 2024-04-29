@@ -47,7 +47,7 @@ window.title:[string]
 * character.count : [ uint ]
 * character.create : [ string ]
   
-* character.[ name ].src.[ string ]: [ path ]
+* character.[ name ].src.[ string ] : [ path ]
 * character.[ name ].show
 * character.[ name ].hide
 * character.[ name ].place : [ string , string , string , string ]
