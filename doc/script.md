@@ -16,5 +16,4 @@ express one's idea to script.yaml
 
 ## Format of script
 
-#### Background
-[background](/background.md)
+[Background](/doc/background.md)
