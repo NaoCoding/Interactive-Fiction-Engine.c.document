@@ -9,7 +9,7 @@ then object is what you may targeting for. Object support various settings for u
 
 ### Format of objects
 
-```
+```c
 object.create.[name]  // create an object named [name]
 // ex. object.create.door    ->  create an object named door
 
