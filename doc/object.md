@@ -3,8 +3,11 @@
 ### Overview
 
 ```
-Object is an important part of our engine, if you want to create some elements or button for player to click ( not option during dialog ),
-then object is what you may targeting for. Object support various settings for users to create their script.
+Object is an important part of our engine,
+if you want to create some elements or button
+for player to click ( not option during dialog ),
+then object is what you may targeting for.
+Object support various settings for users to create their script.
 ```
 
 ### Format of objects
