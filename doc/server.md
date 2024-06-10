@@ -13,6 +13,8 @@ which means the python server normally will not be started by itself.
 ### Commands for admin
 
 ```shell
+./make dev              // delete old saves and make and run the server instantly according to ./example-game/ dir
+                        // useful for developing the source code or the first time user who want to experience our engine.
 ./api del_saves         // deletes all save file (including save dir)
 ./api start_server [folder_of_your_game/script]  // equals to ./engine [folder-name] (ex. ./engine ./example-game/)
 ```
