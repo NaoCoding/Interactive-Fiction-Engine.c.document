@@ -15,5 +15,5 @@
 
 ### For 玩家
 
-[遊戲方法與操作](/HowToPlay-zhtw.md)
+[遊戲方法與操作](/Interactive-Fiction-Engine.c.document/HowToPlay-zhtw.md)
 
