@@ -24,7 +24,7 @@
 
 [開發前基礎必要知識](/Interactive-Fiction-Engine.c.document/before_dev_zhtw.md) <br>
 [劇本檔基本架構](/Interactive-Fiction-Engine.c.document/dev_general_zhtw.md) <br>
-[ dialogBox / 對話框 ] <br>
+[ dialogBox / 對話框 ](/Interactive-Fiction-Engine.c.document/dialogBox_zhtw.md) <br>
 [ NPC / 角色 ] <br>
 [ scene / subscene / 場景與對話內容 ] <br>
 [ object / 場景道具 ] <br>
