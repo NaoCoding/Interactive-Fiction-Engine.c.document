@@ -15,17 +15,17 @@
 
 ### For 玩家
 
-[遊戲方法與操作](/Interactive-Fiction-Engine.c.document/HowToPlay-zhtw.md) <br>
+[遊戲方法與操作](/Interactive-Fiction-Engine.c.document/HowToPlay-zhtw.html) <br>
 
 上面的連結是遊戲操作的相關教學！若您是第一次遊玩互動式文字引擎生成的遊戲， <br>
 建議您可以先簡短花費約 2 ~ 3 分鐘查看遊戲教學的網頁！ <br>
 
 ### For 開發人員
 
-[開發前基礎必要知識](/Interactive-Fiction-Engine.c.document/before_dev_zhtw.md) <br>
-[劇本檔基本架構](/Interactive-Fiction-Engine.c.document/dev_general_zhtw.md) <br>
+[開發前基礎必要知識](/Interactive-Fiction-Engine.c.document/before_dev_zhtw.html) <br>
+[劇本檔基本架構](/Interactive-Fiction-Engine.c.document/dev_general_zhtw.html) <br>
 [ scene / subscene / 場景與對話 ] <br>
-[ dialogBox / 對話框 ](/Interactive-Fiction-Engine.c.document/dialogBox_zhtw.md) <br>
+[ dialogBox / 對話框 ](/Interactive-Fiction-Engine.c.document/dialogBox_zhtw.html) <br>
 [ NPC / 角色 ] <br>
 [ object / 場景道具 ] <br>
 [ option / 選擇與選項 ] <br>
