@@ -31,7 +31,7 @@
 [ option / 選擇與選項 ] <br>
 [ status / 狀態欄與背包 ] <br>
 [ audio / 音效音樂 ] <br>
-[ animation / 特效 ] <br>
+[ animation / 特效 ](/Interactive-Fiction-Engine.c.document/animation_zhtw.html) <br>
 
 
 
