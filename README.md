@@ -24,11 +24,11 @@
 
 [開發前基礎必要知識](/Interactive-Fiction-Engine.c.document/before_dev_zhtw.md) <br>
 [劇本檔基本架構](/Interactive-Fiction-Engine.c.document/dev_general_zhtw.md) <br>
+[ scene / subscene / 場景與對話 ] <br>
 [ dialogBox / 對話框 ](/Interactive-Fiction-Engine.c.document/dialogBox_zhtw.md) <br>
 [ NPC / 角色 ] <br>
-[ scene / subscene / 場景與對話內容 ] <br>
 [ object / 場景道具 ] <br>
-[ option / 遊戲選項 ] <br>
+[ option / 選擇與選項 ] <br>
 [ status / 狀態欄與背包 ] <br>
 [ audio / 音效音樂 ] <br>
 [ animation / 特效 ] <br>
