@@ -88,7 +88,6 @@ ex . dialogBox.content.place:"100%","100%","0px","0px"
 ```
 dialogBox.content.style: target , value
 ex . dialogBox.content.style:zIndex, 1
-
 ```
 
 ## 對話框正在說話者
