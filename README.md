@@ -28,7 +28,7 @@
 [ dialogBox / 對話框 ](/Interactive-Fiction-Engine.c.document/dialogBox_zhtw.html) <br>
 [ NPC / 角色 ](/Interactive-Fiction-Engine.c.document/character_zhtw.html) <br>
 [ object / 場景道具 ](/Interactive-Fiction-Engine.c.document/object_zhtw.html) <br>
-[ option / 選擇與選項 ] <br>
+[ option / 選擇與選項 ](/Interactive-Fiction-Engine.c.document/option_zhtw.html) <br>
 [ status / 狀態欄與背包 ](/Interactive-Fiction-Engine.c.document/status_zhtw.html) <br>
 [ audio / 音效音樂 ](/Interactive-Fiction-Engine.c.document/audio_zhtw.html) <br>
 [ animation / 特效 ](/Interactive-Fiction-Engine.c.document/animation_zhtw.html) <br>
