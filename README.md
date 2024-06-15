@@ -26,7 +26,7 @@
 [劇本檔基本架構](/Interactive-Fiction-Engine.c.document/dev_general_zhtw.html) <br>
 [ scene / subscene / 場景與對話 ] <br>
 [ dialogBox / 對話框 ](/Interactive-Fiction-Engine.c.document/dialogBox_zhtw.html) <br>
-[ NPC / 角色 ] <br>
+[ NPC / 角色 ](/Interactive-Fiction-Engine.c.document/character_zhtw.html) <br>
 [ object / 場景道具 ] <br>
 [ option / 選擇與選項 ] <br>
 [ status / 狀態欄與背包 ] <br>
