@@ -34,4 +34,8 @@
 [ animation / 特效 ](/Interactive-Fiction-Engine.c.document/animation_zhtw.html) <br>
 
 
+### For 助教
+
+除了 LLM 以外，其他功能全部都有實現。
+
 
