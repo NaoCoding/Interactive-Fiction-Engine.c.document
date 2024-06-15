@@ -22,7 +22,7 @@
 
 ### For 開發人員
 
-[開發前基礎必要知識] <br>
+[開發前基礎必要知識](/Interactive-Fiction-Engine.c.document/before_dev_zhtw.md) <br>
 [劇本檔基本架構](/Interactive-Fiction-Engine.c.document/dev_general_zhtw.md) <br>
 [ dialogBox / 對話框 ] <br>
 [ NPC / 角色 ] <br>
