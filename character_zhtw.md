@@ -8,6 +8,8 @@
 
 這是最重要的，必須先有這個後才能開始建立不同角色。<br>
 這會影響到 engine 去 calloc structure的大小。
+* 超出數量會導致引擎出現 Segmentation Fault
+* 請確認自己開的數量
 
 ```
 character.count:[int]
@@ -37,6 +39,9 @@ ex. character.Ichiha.src:normal_stand,"images/character01/character01.png"
 
 #### 顯示與隱藏圖片
 
+* 若圖片名稱不存在會導致 Segmentation Fault
+* 請確認自己設定的圖片名稱
+
 ```
 character.[角色名稱].[hide / show]:[圖片名稱]
 ex . character.Ichiha.hide:normal_stand2
@@ -47,6 +52,9 @@ ex . character.Andy Lu.show:standing_pose
 
 與對話框同樣支援 place 和 style
 詳情見對話框的文檔
+
+* 若圖片名稱不存在會導致 Segmentation Fault
+* 請確認自己設定的圖片名稱
 
 ```
 character.Ichiha.place:normal_stand4,"auto","80%","10%","0%"
@@ -82,6 +90,9 @@ ex . character.Ichiha.moving_show
 
 與對話框同樣支援 place 和 style
 詳情見對話框的文檔
+
+* 若圖片名稱不存在會導致 Segmentation Fault
+* 請確認自己設定的圖片名稱
 
 ```
 character.Ichiha.moving_place:normal_stand4,"auto","80%","10%","0%"
