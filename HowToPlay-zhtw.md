@@ -36,6 +36,7 @@
 
 * 請注意：讀取存檔請在遊戲剛開始 start 按鈕按下前就先讀取
 * 以免出現讀取存檔後前面的場景遺留下的物品無法消失
+* 更新：請勿使用Firefox瀏覽器進行遊玩，因Firefox不支援navigator.clipboard的API
   
 讀取上次遊玩的遊戲則為將存檔 token 複製後點擊 Load 兩下 <br>
 有時 browser 會提示是否同意網頁擷取剪貼簿內容 <br>
